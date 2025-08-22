@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @wizzy-abhishek
 - 👀 I’m interested in football 
-- 🌱 I’m currently learning JavaScript and I am proeficient in java and Spring boot 
-- 💞️ I’m looking to collaborate on any project regarding java and spring boot.
-- 📫 Reach me on linked in my profile 
+- 🌱 I am proficient in Java and Spring boot 
+- 💞️ I’m looking to collaborate on any project regarding Java and Spring Boot.
+- 😎 Diving into the world of Agentic AI with MCP
+- 📫 Reach me on LinkedIn my profile 
 - 😄 Pronouns: He/Him
 - ⚡
 
