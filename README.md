@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Abhishek
 - 👀 I’m interested in football 
-- 🌱 I am proficient in Java and Spring boot 
-- 💞️ I’m looking to collaborate on any project regarding Java and Spring Boot.
+- 🌱 I am proficient in Java and Spring boot.
 - 😎 Diving into the world of Agentic AI with MCP
-- 📫 Reach me on LinkedIn my profile 
+- 📫 Reach me on LinkedIn
 - 😄 Pronouns: He/Him
 - ⚡
 
